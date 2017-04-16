@@ -1,3 +1,1 @@
-# Tutorial
-
-This is my tutorial repository.
+G code subprogram to use a generic bar puller with a Haas Lathe with the Servo Bar page
